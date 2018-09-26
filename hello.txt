@@ -1,3 +1,5 @@
 hello class! today we're learning git
 
 yay!!!!!!
+
+Hi!
